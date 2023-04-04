@@ -52,7 +52,7 @@ Click the Sharing tab.
 <br />
 
 <p>
-<img src="https://i.imgur.com/awzAQaM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a4JwFaL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Choose users to give access to the folder (Jane doe) and set their permission level (Read only).
