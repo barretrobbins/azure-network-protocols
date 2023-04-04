@@ -42,38 +42,32 @@ Created for new folders named Read-Access, Write-Access, and No-Access.
 </p>
 <br />
 
-Set Permissions
+Set Permissions and Share Files
 <p>
 <img src="https://i.imgur.com/iKbpEaf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Click the Sharing tab.
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/7ousuSe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
-Attempt to access file shares
+Attempt to access file shares and folders
 <p>
 <img src="https://i.imgur.com/ulQTnb5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Clicked on No-Access folder to check permissions. Windows will not allow access to the folder. Permissions are working correctly here.
-</p>
-<br />
-
-Attempt to Access Folders
-<p>
 <img src="https://i.imgur.com/b6rBbaL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+Clicked on No-Access folder to check permissions. Windows will not allow access to the folder. Permissions are working correctly here.
 
+After clicking Read-Access folder and trying not create a folder (write) this notification popped up. Permissions set to only read and not write or create folders/documents. The permissions are working correctly.
+</p>
+<br />
+Write In Folders
 <p>
 <img src="https://i.imgur.com/n9h4qhH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-After clicking Read-Access folder and trying not create a folder (write) this notification popped up. Permissions set to only read and not write or create folders/documents. The permissions are working correctly.
 
 Clicked on the Write-Access folder. Created a text file and named it test. The permissions are working correctly for this folder. This folder has read & write permissions.
 </p>
@@ -85,14 +79,6 @@ Create a security group
 </p>
 <p>
 Create a new organizational unit in the Active Directory Domain.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DDnVPpy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Name it _SECURITY_GROUPS.
 </p>
 <br />
 
