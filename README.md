@@ -73,7 +73,7 @@ Clicked on the Write-Access folder. Created a text file and named it test. The p
 </p>
 <br />
 
-Create new organizational unit and group: _SECURITY GROUPS AND ACCOUNTANTS
+Create new organizational unit and group in Client-1: _SECURITY GROUPS AND ACCOUNTANTS
 <p>
 <img src="https://i.Imgur.com/Gvtrf9l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -88,9 +88,9 @@ Create security group: ACCOUNTANTS
 <br />
 
 <p>
-<img src="https://i.Imgur.com/g5GYnHm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yf68obd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Name the group ACCOUNTANTS, set the group type to security.
+After creating the new organizational unity and group, go back to DC-1 to set permissions in accounting folder.  Open File Explorer, click on this PC and then Windows C:, right-click on accounting, and select properties.  Then type ACCOUNTANTS and click add, change permissions to "Read/Write", and click share.  
 </p>
 <br />
