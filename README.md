@@ -73,20 +73,17 @@ Clicked on the Write-Access folder. Created a text file and named it test. The p
 </p>
 <br />
 
-Create a security group
-<p>
-<img src="https://i.imgur.com/YPJLsLd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Create a new organizational unit in the Active Directory Domain.
-</p>
-<br />
-
+Create new organizational unit and group: _SECURITY GROUPS AND ACCOUNTANTS
 <p>
 <img src="https://i.Imgur.com/Gvtrf9l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a new group within _SECURITY_GROUPS.
+<img src="https://i.imgur.com/6sBHKB9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+Create organizational unit: _SECURITY GROUPS
+  
+Create security group: ACCOUNTANTS
 </p>
 <br />
 
