@@ -65,18 +65,16 @@ Clicked on No-Access folder to check permissions. Windows will not allow access 
 </p>
 <br />
 
+Attempt to Access Folders
 <p>
 <img src="https://i.imgur.com/b6rBbaL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-After clicking Read-Access folder and trying not create a folder (write) this notification popped up. Permissions set to only read and not write or create folders/documents. The permissions are working correctly.
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/n9h4qhH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
+After clicking Read-Access folder and trying not create a folder (write) this notification popped up. Permissions set to only read and not write or create folders/documents. The permissions are working correctly.
+
 Clicked on the Write-Access folder. Created a text file and named it test. The permissions are working correctly for this folder. This folder has read & write permissions.
 </p>
 <br />
