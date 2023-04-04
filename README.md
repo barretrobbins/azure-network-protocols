@@ -44,7 +44,7 @@ Created for new folders named Read-Access, Write-Access, and No-Access.
 
 Set Permissions
 <p>
-<img src="https://i.imgur.com/a4JwFaL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iKbpEaf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Click the Sharing tab.
