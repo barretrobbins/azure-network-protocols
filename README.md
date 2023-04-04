@@ -94,3 +94,10 @@ Create security group: ACCOUNTANTS
 After creating the new organizational unity and group, go back to DC-1 to set permissions in accounting folder.  Open File Explorer, click on this PC and then Windows C:, right-click on accounting, and select properties.  Then type ACCOUNTANTS and click add, change permissions to "Read/Write", and click share.  
 </p>
 <br />
+
+Add user to ACCOUNTANTS group
+<p>
+<img src="https://i.imgur.com/1l2eiiV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+Go back to Active Directory Users and Computers in Client-1.  Go to _SECURITY GROUPS and doubl-click ACCOUNTANTS, click Members tab, enter name of the user from DC-1 and click "check names".  Then click OK, click Apply, and OK again.  
