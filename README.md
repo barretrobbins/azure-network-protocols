@@ -101,3 +101,10 @@ Add user to ACCOUNTANTS group
 </p>
 
 Go back to Active Directory Users and Computers in Client-1.  Go to _SECURITY GROUPS and doubl-click ACCOUNTANTS, click Members tab, enter name of the user from DC-1 and click "check names".  Then click OK, click Apply, and OK again.  
+
+Check Access in Accounting folder
+<p>
+<img src="https://i.imgur.com/A3THigU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+After adding user, head back to Client-1, open File Explorer, click Network, and open accounting.  A message should appear 
