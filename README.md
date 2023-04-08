@@ -100,11 +100,4 @@ Add user to ACCOUNTANTS group
 <img src="https://i.imgur.com/1l2eiiV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-Go back to Active Directory Users and Computers in Client-1.  Go to _SECURITY GROUPS and doubl-click ACCOUNTANTS, click Members tab, enter name of the user from DC-1 and click "check names".  Then click OK, click Apply, and OK again.  
-
-Check Access in Accounting folder
-<p>
-<img src="https://i.imgur.com/A3THigU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-After adding user, head back to Client-1, open File Explorer, click Network, and open accounting.  A message should appear 
+Go back to Active Directory Users and Computers in Client-1.  Go to _SECURITY GROUPS and doubl-click ACCOUNTANTS, click Members tab, enter name of the user from DC-1 and click "check names".  Then click OK, click Apply, and OK again.  After adding user, head back to Client-1, open File Explorer, click Network, and open accounting.  A message should appear indicating that Windows cannot access \\dc-1\accounting.  In order for the user to access the folder, the user must logoff from remote desktop and log in again; then the user can access the accounting folder.
