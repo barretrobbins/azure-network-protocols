@@ -36,13 +36,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 <img src="https://i.imgur.com/4kpWWbx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-  
-Created for new folders named Read-Access, Write-Access, and No-Access.
+<p> 
+Created four new folders named: Read-Access, Write-Access, and No-Access.
 </p>
 <br />
 
-2 - Set Permissions and Share Files
+2 - Set Permissions and Share Files (Read-Access, Write-Access, and No-Access).
 <p>
 <img src="https://i.imgur.com/iKbpEaf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -82,11 +81,6 @@ Create new organizational unit and group in Client-1: _SECURITY GROUPS AND ACCOU
 </p>
 
 4 - Create organizational unit: _SECURITY GROUPS
-  
-Create security group: ACCOUNTANTS
-</p>
-<br />
-
 <p>
 <img src="https://i.imgur.com/CSbmHZ0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
