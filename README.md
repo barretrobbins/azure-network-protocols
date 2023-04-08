@@ -25,10 +25,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>HIGH-LEVEL STEPS</h2>
 
-- STEP 1 Create File Share Folders
-- STEP 2 Set Permissions
-- STEP 3 Attempt to access file shares
-- STEP 4 Create Security Groups
+- 1 - Create File Share Folders
+- 2 - Set Permissions
+- 3 - Attempt to access file shares
+- 4 - Create Security Groups
 
 <h2>ACTIONS AND OBSERVATIONS</h2>
 
