@@ -80,7 +80,7 @@ Create new organizational unit and group in Client-1: _SECURITY GROUPS AND ACCOU
 <img src="https://i.imgur.com/6sBHKB9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-4 - Create organizational unit: _SECURITY GROUPS
+4 - Set Permissions and Share Files (Accounting)
 <p>
 <img src="https://i.imgur.com/CSbmHZ0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
